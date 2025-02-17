@@ -57,7 +57,7 @@ Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
 ## 📧 Kontakt
 
-Falls du Fragen hast, kannst du mich gerne über [deine E-Mail oder GitHub-Profil] kontaktieren.
+Falls du Fragen hast, kannst du mich gerne über [[GitHub-Profil](https://github.com/Alirezarezairad)] kontaktieren.
 
 ---
 
