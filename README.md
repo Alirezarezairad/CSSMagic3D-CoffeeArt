@@ -4,7 +4,8 @@ CSSMagic3D-CoffeeArt ist ein stilvolles CSS-Experiment, das 3D-Effekte und kreat
 
 ## 🚀 Vorschau
 
-![CSSMagic3D-CoffeeArt Screenshot](link-zu-deinem-screenshot)
+![CSSMagic3D-CoffeeArt Screenshot](![image](https://github.com/user-attachments/assets/fa06d3eb-2aa6-4c1b-b089-fcee2090eba8)
+)
 
 [bottel.webm](https://github.com/Alirezarezairad/HTML-CSS-3D-bottle/tree/main/media)
 
